@@ -19,12 +19,12 @@
     &quot;assignee&quot;: &quot;Sumitmondal1996&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/GoogleChrome/lighthouse-stack-packs.git&quot;,
-    &quot;accountId&quot;: &quot;5bbba036-d255-40a7-acd3-3ac087726dc5&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sumitmondal1996/TicTacToeSST.git/",
+    "accountId": "5bbba036-d255-40a7-acd3-3ac087726dc5"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -66,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718805029273</updated>
       <workItem from="1718805030551" duration="1623000" />
-      <workItem from="1718867891626" duration="2006000" />
+      <workItem from="1718867891626" duration="2463000" />
     </task>
     <servers />
   </component>
