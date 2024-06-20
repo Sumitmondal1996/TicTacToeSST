@@ -35,8 +35,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "7703969e",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/sumit/Downloads/lighthouse-stack-packs",
     "node.js.detected.package.eslint": "true",
@@ -64,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718805029273</updated>
       <workItem from="1718805030551" duration="1623000" />
-      <workItem from="1718867891626" duration="1285000" />
+      <workItem from="1718867891626" duration="2006000" />
     </task>
     <servers />
   </component>

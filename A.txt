@@ -1,1 +1,2 @@
 Added A.txt
+new line
